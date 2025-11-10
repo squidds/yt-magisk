@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (59)",
-  "versionCode": 59,
-  "zipUrl": "https://github.com/squidds/yt-magisk/releases/download/59/music-revanced-magisk-v8.10.52-arm64-v8a.zip",
+  "version": "v8.10.52 (60)",
+  "versionCode": 60,
+  "zipUrl": "https://github.com/squidds/yt-magisk/releases/download/60/music-revanced-magisk-v8.10.52-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/squidds/yt-magisk/update/build.md"
 }
